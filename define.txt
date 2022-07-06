@@ -1,0 +1,19 @@
+WHO:
+For a client
+
+WHAT:
+Business goal: selling monthly food subscription
+User goal: Eating well effortlessly, without spending a lot of time and money
+
+TARGET:
+Busy people who like technology, are interested in a healthy diet, and have a well-paying job
+
+---------------------------------
+
+PLANNING:
+Content already gathered, no need for a sitemap since it will be a one-pager
+
+Personality: startup/upbeat, elements of calm/peaceful
+
+---------------------------------
+Planing page sections:
