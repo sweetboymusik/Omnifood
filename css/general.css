@@ -36,6 +36,8 @@ Letterspacing
 Greys:
 #555
 #333
+#6f6f6f
+
 
 
 --- 05 Shadows
@@ -161,6 +163,10 @@ body {
   grid-template-columns: repeat(2, 1fr);
 }
 
+.grid:not(:last-child) {
+  margin-bottom: 9.6rem;
+}
+
 .grid--center-v {
   align-items: center;
 }
@@ -207,4 +213,24 @@ strong {
 
 .left-text {
   text-align: left;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.list-item {
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.list-icon {
+  width: 3rem;
+  height: 3rem;
+  color: #e67e22;
 }
